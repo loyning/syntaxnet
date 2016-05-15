@@ -16,8 +16,12 @@ When all dependencies are met, execute the following in a terminal shell:
 ```shell
 git clone https://github.com/loyning/syntaxnet
 cd syntaxnet
+vagrant up --provision
+```
+
+Next time you need to start this VM, simple execute
+```shell
 vagrant up
-vagrant provision
 ```
 
 ## Tests
