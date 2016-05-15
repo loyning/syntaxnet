@@ -39,6 +39,8 @@ For additional tests, refer to [https://github.com/tensorflow/models/blob/master
 * [SyntaxNet in context: Understanding Google's new TensorFlow NLP model](https://spacy.io/blog/syntaxnet-in-context)
 * [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.no/2015/11/tensorflow-smarter-machine-learning-for.html)
 * [TensorFlow: Open source machine learning](https://www.youtube.com/watch?v=oZikw5k_2FM) (YouTube video)
+* [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.8/tutorials/index.html)
+* [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 ## Similar software
 * [spaCy](https://spacy.io)
